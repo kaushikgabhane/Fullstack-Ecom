@@ -1,0 +1,30 @@
+{
+  "name": "fullstack-ecom",
+  "version": "1.0.0",
+  "description": "A fullstack Ecom  website.",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node ./src/index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kaushikgabhane/Fullstack-Ecom.git"
+  },
+  "keywords": [
+    "Mega",
+    "project"
+  ],
+  "author": "kaushik",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kaushikgabhane/Fullstack-Ecom/issues"
+  },
+  "homepage": "https://github.com/kaushikgabhane/Fullstack-Ecom#readme",
+  "dependencies": {
+    "dotenv": "^16.3.1",
+    "express": "^4.18.2",
+    "mongoose": "^7.3.4"
+  }
+}
